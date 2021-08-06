@@ -1,4 +1,4 @@
-# Delber Soares
+<h1 align="center">Delber Soares</h1>
 
 Hi! I'm a student of Information Systems at the Federal University of Juiz de Fora. 🎓💻
 
