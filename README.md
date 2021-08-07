@@ -4,6 +4,7 @@ Hi! I'm a student of Information Systems at the Federal University of Juiz de Fo
 
 
 -   📍  From MG 
+-   🎈  22 years old
 -   💻  Every day a new learning
 
 Reach me out 👇🏼
