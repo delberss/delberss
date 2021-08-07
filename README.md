@@ -3,7 +3,7 @@
 Hi! I'm a student of Information Systems at the Federal University of Juiz de Fora. 🎓💻
 
 
--   📍  From MG 
+-   🌎  From MG - Brazil
 -   🎈  22 years old
 -   💻  Every day a new learning
 
