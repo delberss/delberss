@@ -1,5 +1,9 @@
 <h1  align="center"><i>Hello, I'm Delber Soares</i></h1>
 
+##
+
+<h3>I'm a student of Information Systems at the Federal University of Juiz de Fora. 🎓💻</h3>
+
 <div>
   <a href="https://github.com/delberss">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=delberss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
