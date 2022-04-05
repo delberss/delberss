@@ -2,7 +2,7 @@
 
 ##
 
-<h3>I'm a student of Information Systems at the Federal University of Juiz de Fora. 🎓💻</h3>
+<h3  align="center">I'm a student of Information Systems at the Federal University of Juiz de Fora. 🎓💻</h3>
 
 <div>
   <a href="https://github.com/delberss">
