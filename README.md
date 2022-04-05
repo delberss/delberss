@@ -1,8 +1,8 @@
 <h1  align="center"><i>Hello, I'm Delber Soares</i></h1>
 
-##
-
 <h3  align="center">I'm a student of Information Systems at the Federal University of Juiz de Fora. 🎓💻</h3>
+
+##
 
 <div>
   <a href="https://github.com/delberss">
