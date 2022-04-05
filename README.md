@@ -4,10 +4,10 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/delberss">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=delberss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delberss&layout=compact&langs_count=7&theme=dark"/>
+  <img width="400px" alt="Delber Github Stats" src="https://github-readme-stats.vercel.app/api?username=delberss&show_icons=true&hide_border=true&count_private=true&hide=prs,contribs&theme=dark" />
+ <img alt="Delber Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delberss&layout=compact&theme=dark" />
 </div>
   
 <div style="display: inline_block" align="center"><br>
