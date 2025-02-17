@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/delberss">
   <img width="400px" alt="Delber Github Stats" src="https://github-readme-stats.vercel.app/api?username=delberss&show_icons=true&hide_border=true&count_private=true&hide=prs,contribs&theme=dark" />
- <img alt="Delber Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delberss&layout=compact&theme=dark" />
+ <img alt="Delber Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delberss&layout=compact&theme=dark&exclude_repo=REPO1,REPO2&cache_seconds=3600" />
 </div>
   
 <div style="display: inline_block" align="center"><br>
